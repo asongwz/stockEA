@@ -1,0 +1,2 @@
+# stockEA
+a stockEA tool
